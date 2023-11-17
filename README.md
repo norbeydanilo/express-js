@@ -16,6 +16,14 @@
 
 :link: Follow this [repository](https://github.com/norbeydanilo/nodejs-exercises.git). You can find exercises about servers with express, using: routing, middleware and static resources.
 
+### :computer: Exercises - API REST.
+
+:link: Follow this [repository](https://github.com/norbeydanilo/basic_api_rest.git). You can find an Basic API REST using nodejs, express and mongodb.
+
+### :computer: Exercises - API REST with views engine EJS.
+
+:link: Follow this [repository](https://github.com/norbeydanilo/basic_api_rest_ejs.git). You can find an Basic API REST using nodejs, express, mongodb and views engine EJS.
+
 ## Interesting links :heavy_check_mark:
 
 - :link: [books-lectures](.) See the folder in the repository to find some books and lectures of interest.
