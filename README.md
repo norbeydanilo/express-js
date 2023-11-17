@@ -20,9 +20,17 @@
 
 :link: Follow this [repository](https://github.com/norbeydanilo/basic_api_rest.git). You can find an Basic API REST using nodejs, express and mongodb.
 
-### :computer: Exercises - API REST with views engine EJS.
+### :computer: Exercises - API REST with server-side views engine EJS.
 
 :link: Follow this [repository](https://github.com/norbeydanilo/basic_api_rest_ejs.git). You can find an Basic API REST using nodejs, express, mongodb and views engine EJS.
+
+### :computer: Exercises - API REST with TypeSript and MySQL.
+
+:link: Follow this [repository](https://github.com/norbeydanilo/api_typescript_mysql.git). You can find an Basic API REST using nodejs, express, typeSript and MySQL.
+
+### :computer: Exercises - API REST with TypeSript and Sequelize (ORM) for MySQL.
+
+:link: Follow this [repository](https://github.com/norbeydanilo/api_typescript_sequelize.git). You can find an Basic API REST using nodejs, express, typeSript and Sequelize (ORM) for MySQL.
 
 ## Interesting links :heavy_check_mark:
 
